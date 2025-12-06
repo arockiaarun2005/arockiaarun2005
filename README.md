@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Arockia Arun J 👋
 
-<!--
-**arockiaarun2005/arockiaarun2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc Computer Science (St. Joseph's College, graduating 2025)**  
+📊 **Aspiring Data Analyst | Python • SQL • Power BI**  
+🌍 Based in Chennai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Methodical, persistent, and detail-oriented learner  
+- Passionate about transforming raw data into meaningful business insights  
+- Building practical analytics projects to showcase in my portfolio  
+- Currently working on a **Retail Store Performance Dashboard** (data cleaning, KPI calculation, forecasting, Power BI visualization)  
+- Exploring ideas like **Traffic & Pollution Analysis in Chennai** for local impact  
+
+---
+
+## 🛠 Skills
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Prophet  
+- **SQL**: Querying, integration with Python & Power BI  
+- **Visualization**: Power BI dashboards, storytelling with data  
+- **Workflow**: Organized project structures, documentation, troubleshooting in VS Code & PowerShell  
+
+---
+
+## 📂 Projects
+- 🏬 **Retail Store Performance Dashboard** – End-to-end analytics project with forecasting & KPIs  
+- 🌆 **Traffic & Pollution Analysis (Chennai)** – Future project idea for local impact  
+- 📈 **Portfolio-ready notebooks & dashboards** – Clean, documented, and business-relevant  
+
+---
+
+## 🎯 Goals
+- Short-term: Build complete, professional-grade analytics projects with clear documentation  
+- Long-term: Secure a **Data Analyst role** by showcasing practical, business-relevant projects  
+
+---
+
+## 📫 Connect
+- [LinkedIn](https://linkedin.com)  
+- [Email](mailto:yourmail@example.com)  
+
+---
+✨ *“Turning data into decisions, one project at a time.”*
