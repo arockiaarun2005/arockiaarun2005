@@ -1,6 +1,6 @@
 # Hi, I'm Arockia Arun J 👋
 <p align="center">
-  <img src="https://github.com/"C:\Users\Jhones reegan J\Downloads\image (1).png".png" width="150" height="150" />
+  <img src="https://github.com/C:\Users\Jhones reegan J\Downloads\image (1).pngpng".png" width="150" height="150" />
 </p>
 🎓 **BSc Computer Science (St. Joseph's College, graduating 2025)**  
 📊 **Aspiring Data Analyst | Python • SQL • Power BI**  
