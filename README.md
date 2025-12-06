@@ -16,7 +16,7 @@
 ---
 
 ## 🛠 Skills
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Prophet  
+- **Python**: Pandas, NumPy, Matplotlib  
 - **SQL**: Querying, integration with Python & Power BI  
 - **Visualization**: Power BI dashboards, storytelling with data  
 - **Workflow**: Organized project structures, documentation, troubleshooting in VS Code & PowerShell  
@@ -25,8 +25,6 @@
 
 ## 📂 Projects
 - 🏬 **Retail Store Performance Dashboard** – End-to-end analytics project with forecasting & KPIs  
-- 🌆 **Traffic & Pollution Analysis (Chennai)** – Future project idea for local impact  
-- 📈 **Portfolio-ready notebooks & dashboards** – Clean, documented, and business-relevant  
 
 ---
 
